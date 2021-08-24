@@ -7,6 +7,7 @@ BREITE = 1280
 HOEHE = 720
 TITEL = "Spieltitel"
 
+#das ist ein versuch
 
 class Game:
     def __init__(self):
