@@ -8,6 +8,7 @@ HOEHE = 720
 TITEL = "Spieltitel"
 
 #das ist ein versuch
+Spielername = input("Bitte Spielername eingeben: ") # Marcin Chris, Eingabe des Spielernames
 
 class Game:
     def __init__(self):
